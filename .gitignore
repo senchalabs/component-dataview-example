@@ -1,0 +1,5 @@
+.DS_Store
+lib/*
+lib/touch2-pr2
+lib/touch2-pr3
+.sass-cache
