@@ -10,12 +10,12 @@ Ext.define('Example.store.Kittens', {
         model: 'Example.model.Kitten',
 
         data: [
-            { name: 'Running kitten', image: 'data/images/kitten1.jpg', cuteness: 70 },
-            { name: 'Sitting kitten', image: 'data/images/kitten2.jpg', cuteness: 90 },
-            { name: 'Happy kitten', image: 'data/images/kitten3.jpg', cuteness: 70 },
-            { name: 'Ginger kitten', image: 'data/images/kitten4.jpg', cuteness: 80 },
-            { name: 'Kitten friends', image: 'data/images/kitten5.jpg', cuteness: 20 },
-            { name: 'Milk kitten', image: 'data/images/kitten6.jpg', cuteness: 50 }
+            { name: 'Yawning kitten', image: 'data/images/kitten1.jpeg', cuteness: 70 },
+            { name: 'Sitting kitten', image: 'data/images/kitten2.jpeg', cuteness: 90 },
+            { name: 'Evil kitten', image: 'data/images/kitten3.jpeg', cuteness: 40 },
+            { name: 'Ginger kitten', image: 'data/images/kitten4.jpeg', cuteness: 80 },
+            { name: 'Kitten friends', image: 'data/images/kitten5.jpeg', cuteness: 20 },
+            { name: 'Milk kitten', image: 'data/images/kitten6.jpeg', cuteness: 50 }
         ]
     }
 });
