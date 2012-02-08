@@ -6,6 +6,8 @@ This is a sample application written using Sencha Touch 2 to show the awesomenes
 
 You can run this example by simply cloning this repository and opening `index.html`. This works even though I have not included the Sencha Touch 2 framework. This is because I have built my MVC application into the `all-classes.js` file.
 
+![Screenshot](http://src.sencha.io/636/http://img1.sencha.com/files/misc/KittensListItem.png)
+
 ## Setup
 
 I have not included Sencha Touch in this repository. The steps to include it are
